@@ -1,0 +1,23 @@
+{
+  "name": "lemongrass-back",
+  "version": "1.0.0",
+  "description": "Backend for lemongrass application",
+  "main": "lemongrass.js",
+  "scripts": {
+    "start": "node src/lemongrass.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benbo1997/Lemongrass-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benbo1997/Lemongrass-back/issues"
+  },
+  "homepage": "https://github.com/benbo1997/Lemongrass-back#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
