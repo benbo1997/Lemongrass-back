@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/benbo1997/Lemongrass-back#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3"
   }
 }
